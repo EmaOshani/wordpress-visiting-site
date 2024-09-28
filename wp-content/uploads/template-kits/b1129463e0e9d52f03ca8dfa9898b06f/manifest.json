@@ -1,0 +1,1237 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Wedding Planner",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3-pro.jpg",
+            "source": "templates\/home-3-918bba5cd1d045782da1709ac80f52f0.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 4",
+            "screenshot": "screenshots\/home-4-pro.jpg",
+            "source": "templates\/home-4-4aa590e8ebbefed064993da3129b7f5c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about-e513c6d2668082d94be54cebd5db5c97.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services 1",
+            "screenshot": "screenshots\/services-1.jpg",
+            "source": "templates\/services-1-cad9e25ab60b13403a958cf75eea6a05.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Weddings",
+            "screenshot": "screenshots\/weddings.jpg",
+            "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing 1",
+            "screenshot": "screenshots\/pricing-1.jpg",
+            "source": "templates\/pricing-1-f466f1a2e95431105bf3d7b6e2628e84.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing 2",
+            "screenshot": "screenshots\/pricing-2-pro.jpg",
+            "source": "templates\/pricing-2-74ee0860b63de28bb3325335bc301ca3.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials-2b75d26e2ddb3ebdac1f6f8deb1560ad.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq-c9dcf7a8c7d742f7d82fd554cd3a2db9.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Events 1",
+            "screenshot": "screenshots\/events-1.jpg",
+            "source": "templates\/events-1-9fedcce1af36ffff235b62d74e9418a6.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Events 2",
+            "screenshot": "screenshots\/events-2-pro.jpg",
+            "source": "templates\/events-2-c2df976535ac53b37df26183557e0f1a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact-909d1ae423969656b4a6334ec100f958.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact - 2 Pro",
+            "screenshot": "screenshots\/contact-2-pro.jpg",
+            "source": "templates\/contact-2-pro-1d7f04a56b82cb7140a30c91cf46463a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-017e1309dad4d2b886b70019e2b03da6.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": [
+        {
+            "filename": "cinematic-imagery-634063-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/cinematic-imagery-634063-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+                    "name": "Weddings"
+                },
+                {
+                    "source": "templates\/faq-c9dcf7a8c7d742f7d82fd554cd3a2db9.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 529778,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "image-from-rawpixel-id-581081-jpeg.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/image-from-rawpixel-id-581081-jpeg-500x423.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-918bba5cd1d045782da1709ac80f52f0.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-4aa590e8ebbefed064993da3129b7f5c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/services-1-cad9e25ab60b13403a958cf75eea6a05.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+                    "name": "Weddings"
+                },
+                {
+                    "source": "templates\/pricing-1-f466f1a2e95431105bf3d7b6e2628e84.json",
+                    "name": "Pricing 1"
+                },
+                {
+                    "source": "templates\/pricing-2-74ee0860b63de28bb3325335bc301ca3.json",
+                    "name": "Pricing 2"
+                },
+                {
+                    "source": "templates\/testimonials-2b75d26e2ddb3ebdac1f6f8deb1560ad.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq-c9dcf7a8c7d742f7d82fd554cd3a2db9.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/events-1-9fedcce1af36ffff235b62d74e9418a6.json",
+                    "name": "Events 1"
+                },
+                {
+                    "source": "templates\/events-2-c2df976535ac53b37df26183557e0f1a.json",
+                    "name": "Events 2"
+                },
+                {
+                    "source": "templates\/contact-909d1ae423969656b4a6334ec100f958.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/contact-2-pro-1d7f04a56b82cb7140a30c91cf46463a.json",
+                    "name": "Contact - 2 Pro"
+                },
+                {
+                    "source": "templates\/popup-017e1309dad4d2b886b70019e2b03da6.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 726018,
+            "dimensions": [
+                3500,
+                2964
+            ]
+        },
+        {
+            "filename": "rawpixel-1081167-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/rawpixel-1081167-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-918bba5cd1d045782da1709ac80f52f0.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-4aa590e8ebbefed064993da3129b7f5c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/services-1-cad9e25ab60b13403a958cf75eea6a05.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+                    "name": "Weddings"
+                },
+                {
+                    "source": "templates\/pricing-1-f466f1a2e95431105bf3d7b6e2628e84.json",
+                    "name": "Pricing 1"
+                },
+                {
+                    "source": "templates\/faq-c9dcf7a8c7d742f7d82fd554cd3a2db9.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 219437,
+            "dimensions": [
+                1920,
+                1282
+            ]
+        },
+        {
+            "filename": "pexels-photo-1488315.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/pexels-photo-1488315-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-918bba5cd1d045782da1709ac80f52f0.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-4aa590e8ebbefed064993da3129b7f5c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-e513c6d2668082d94be54cebd5db5c97.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-1-cad9e25ab60b13403a958cf75eea6a05.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+                    "name": "Weddings"
+                },
+                {
+                    "source": "templates\/events-1-9fedcce1af36ffff235b62d74e9418a6.json",
+                    "name": "Events 1"
+                }
+            ],
+            "filesize": 314015,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "transparent-min.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/transparent-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-4aa590e8ebbefed064993da3129b7f5c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-e513c6d2668082d94be54cebd5db5c97.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing-1-f466f1a2e95431105bf3d7b6e2628e84.json",
+                    "name": "Pricing 1"
+                }
+            ],
+            "filesize": 3622,
+            "dimensions": [
+                300,
+                96
+            ]
+        },
+        {
+            "filename": "alvin-mahmudov-172232-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/alvin-mahmudov-172232-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services-1-cad9e25ab60b13403a958cf75eea6a05.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/testimonials-2b75d26e2ddb3ebdac1f6f8deb1560ad.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/popup-017e1309dad4d2b886b70019e2b03da6.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 138650,
+            "dimensions": [
+                800,
+                1200
+            ]
+        },
+        {
+            "filename": "wedding-photography-607840-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/wedding-photography-607840-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services-1-cad9e25ab60b13403a958cf75eea6a05.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+                    "name": "Weddings"
+                },
+                {
+                    "source": "templates\/faq-c9dcf7a8c7d742f7d82fd554cd3a2db9.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 205843,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "rawpixel-1090846-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/rawpixel-1090846-unsplash-500x330.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-918bba5cd1d045782da1709ac80f52f0.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-e513c6d2668082d94be54cebd5db5c97.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-1-cad9e25ab60b13403a958cf75eea6a05.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+                    "name": "Weddings"
+                },
+                {
+                    "source": "templates\/faq-c9dcf7a8c7d742f7d82fd554cd3a2db9.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 170525,
+            "dimensions": [
+                1920,
+                1266
+            ]
+        },
+        {
+            "filename": "thomas-william-654100-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/thomas-william-654100-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-4-4aa590e8ebbefed064993da3129b7f5c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+                    "name": "Weddings"
+                }
+            ],
+            "filesize": 227445,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "nyana-stoica-792489-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/nyana-stoica-792489-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-4-4aa590e8ebbefed064993da3129b7f5c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/events-1-9fedcce1af36ffff235b62d74e9418a6.json",
+                    "name": "Events 1"
+                },
+                {
+                    "source": "templates\/events-2-c2df976535ac53b37df26183557e0f1a.json",
+                    "name": "Events 2"
+                }
+            ],
+            "filesize": 355924,
+            "dimensions": [
+                800,
+                1200
+            ]
+        },
+        {
+            "filename": "orio-nguyen-266209-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/orio-nguyen-266209-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+                    "name": "Weddings"
+                }
+            ],
+            "filesize": 228907,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "micheile-henderson-406428-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/micheile-henderson-406428-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-918bba5cd1d045782da1709ac80f52f0.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+                    "name": "Weddings"
+                }
+            ],
+            "filesize": 284565,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "marc-a-sporys-437479-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/marc-a-sporys-437479-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+                    "name": "Weddings"
+                }
+            ],
+            "filesize": 420468,
+            "dimensions": [
+                1920,
+                1281
+            ]
+        },
+        {
+            "filename": "scott-webb-78397-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/scott-webb-78397-unsplash-500x332.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-918bba5cd1d045782da1709ac80f52f0.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+                    "name": "Weddings"
+                },
+                {
+                    "source": "templates\/testimonials-2b75d26e2ddb3ebdac1f6f8deb1560ad.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 342521,
+            "dimensions": [
+                1920,
+                1275
+            ]
+        },
+        {
+            "filename": "valerie-elash-623361-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/valerie-elash-623361-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services-1-cad9e25ab60b13403a958cf75eea6a05.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+                    "name": "Weddings"
+                },
+                {
+                    "source": "templates\/faq-c9dcf7a8c7d742f7d82fd554cd3a2db9.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 777978,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "sweet-ice-cream-photography-89501-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/sweet-ice-cream-photography-89501-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-4aa590e8ebbefed064993da3129b7f5c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-e513c6d2668082d94be54cebd5db5c97.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing-1-f466f1a2e95431105bf3d7b6e2628e84.json",
+                    "name": "Pricing 1"
+                },
+                {
+                    "source": "templates\/events-1-9fedcce1af36ffff235b62d74e9418a6.json",
+                    "name": "Events 1"
+                },
+                {
+                    "source": "templates\/events-2-c2df976535ac53b37df26183557e0f1a.json",
+                    "name": "Events 2"
+                }
+            ],
+            "filesize": 545113,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "pexels-photo-1490994.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/pexels-photo-1490994-500x334.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services-1-cad9e25ab60b13403a958cf75eea6a05.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 953411,
+            "dimensions": [
+                1920,
+                1281
+            ]
+        },
+        {
+            "filename": "pexels-photo-1371800.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/pexels-photo-1371800-500x331.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-918bba5cd1d045782da1709ac80f52f0.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-4aa590e8ebbefed064993da3129b7f5c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/testimonials-2b75d26e2ddb3ebdac1f6f8deb1560ad.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 693328,
+            "dimensions": [
+                1920,
+                1272
+            ]
+        },
+        {
+            "filename": "gades-photography-711066-unsplash-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/gades-photography-711066-unsplash-1-500x749.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-918bba5cd1d045782da1709ac80f52f0.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-4aa590e8ebbefed064993da3129b7f5c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+                    "name": "Weddings"
+                },
+                {
+                    "source": "templates\/events-1-9fedcce1af36ffff235b62d74e9418a6.json",
+                    "name": "Events 1"
+                }
+            ],
+            "filesize": 149222,
+            "dimensions": [
+                801,
+                1200
+            ]
+        },
+        {
+            "filename": "pexels-photo-1045541.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/pexels-photo-1045541-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-4-4aa590e8ebbefed064993da3129b7f5c.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 303868,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "the-hk-photo-company-634054-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/the-hk-photo-company-634054-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services-1-cad9e25ab60b13403a958cf75eea6a05.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 172587,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "photos-by-lanty-568676-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/photos-by-lanty-568676-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services-1-cad9e25ab60b13403a958cf75eea6a05.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 273796,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "elodie-ozanne-691314-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/elodie-ozanne-691314-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-918bba5cd1d045782da1709ac80f52f0.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-4aa590e8ebbefed064993da3129b7f5c.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 160254,
+            "dimensions": [
+                800,
+                1200
+            ]
+        },
+        {
+            "filename": "place2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/place2-500x507.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-918bba5cd1d045782da1709ac80f52f0.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+                    "name": "Weddings"
+                },
+                {
+                    "source": "templates\/events-1-9fedcce1af36ffff235b62d74e9418a6.json",
+                    "name": "Events 1"
+                },
+                {
+                    "source": "templates\/events-2-c2df976535ac53b37df26183557e0f1a.json",
+                    "name": "Events 2"
+                }
+            ],
+            "filesize": 244534,
+            "dimensions": [
+                747,
+                758
+            ]
+        },
+        {
+            "filename": "thomas-william-658265-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/thomas-william-658265-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-4bb5c2765314eea646a483b68e31a717.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-918bba5cd1d045782da1709ac80f52f0.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-4aa590e8ebbefed064993da3129b7f5c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/services-1-cad9e25ab60b13403a958cf75eea6a05.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+                    "name": "Weddings"
+                },
+                {
+                    "source": "templates\/events-1-9fedcce1af36ffff235b62d74e9418a6.json",
+                    "name": "Events 1"
+                }
+            ],
+            "filesize": 146329,
+            "dimensions": [
+                800,
+                1200
+            ]
+        },
+        {
+            "filename": "jason-briscoe-156643-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/jason-briscoe-156643-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-918bba5cd1d045782da1709ac80f52f0.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+                    "name": "Weddings"
+                },
+                {
+                    "source": "templates\/faq-c9dcf7a8c7d742f7d82fd554cd3a2db9.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 303130,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "gades-photography-711069-unsplash-min.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/gades-photography-711069-unsplash-min-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-918bba5cd1d045782da1709ac80f52f0.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+                    "name": "Weddings"
+                },
+                {
+                    "source": "templates\/testimonials-2b75d26e2ddb3ebdac1f6f8deb1560ad.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq-c9dcf7a8c7d742f7d82fd554cd3a2db9.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-909d1ae423969656b4a6334ec100f958.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 277430,
+            "dimensions": [
+                1900,
+                1268
+            ]
+        },
+        {
+            "filename": "anne-edgar-119371-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/anne-edgar-119371-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-918bba5cd1d045782da1709ac80f52f0.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/testimonials-2b75d26e2ddb3ebdac1f6f8deb1560ad.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 641195,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "tom-the-photographer-654120-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/tom-the-photographer-654120-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-918bba5cd1d045782da1709ac80f52f0.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/testimonials-2b75d26e2ddb3ebdac1f6f8deb1560ad.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 262824,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "pexels-photo-1751673.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/pexels-photo-1751673-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-4aa590e8ebbefed064993da3129b7f5c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+                    "name": "Weddings"
+                },
+                {
+                    "source": "templates\/faq-c9dcf7a8c7d742f7d82fd554cd3a2db9.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 489721,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "pexels-photo-1295995.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/pexels-photo-1295995-500x336.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-4aa590e8ebbefed064993da3129b7f5c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/weddings-16913c17dfd41068cd827ac5b025ebaf.json",
+                    "name": "Weddings"
+                },
+                {
+                    "source": "templates\/faq-c9dcf7a8c7d742f7d82fd554cd3a2db9.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/events-1-9fedcce1af36ffff235b62d74e9418a6.json",
+                    "name": "Events 1"
+                },
+                {
+                    "source": "templates\/events-2-c2df976535ac53b37df26183557e0f1a.json",
+                    "name": "Events 2"
+                }
+            ],
+            "filesize": 826355,
+            "dimensions": [
+                1920,
+                1289
+            ]
+        },
+        {
+            "filename": "pexels-photo-1447375.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/pexels-photo-1447375-500x750.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-4aa590e8ebbefed064993da3129b7f5c.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 1328807,
+            "dimensions": [
+                1920,
+                2880
+            ]
+        },
+        {
+            "filename": "drew-coffman-100876-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/drew-coffman-100876-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-4aa590e8ebbefed064993da3129b7f5c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/pricing-1-f466f1a2e95431105bf3d7b6e2628e84.json",
+                    "name": "Pricing 1"
+                }
+            ],
+            "filesize": 213905,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "photos-by-lanty-719702-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/photos-by-lanty-719702-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-1-cad9e25ab60b13403a958cf75eea6a05.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 96534,
+            "dimensions": [
+                800,
+                1200
+            ]
+        },
+        {
+            "filename": "jordan-arnold-612264-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/jordan-arnold-612264-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-1-cad9e25ab60b13403a958cf75eea6a05.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 509828,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "sweet-ice-cream-photography-399226-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/sweet-ice-cream-photography-399226-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events-1-9fedcce1af36ffff235b62d74e9418a6.json",
+                    "name": "Events 1"
+                },
+                {
+                    "source": "templates\/events-2-c2df976535ac53b37df26183557e0f1a.json",
+                    "name": "Events 2"
+                }
+            ],
+            "filesize": 454749,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "brianna-santellan-319560-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/brianna-santellan-319560-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events-1-9fedcce1af36ffff235b62d74e9418a6.json",
+                    "name": "Events 1"
+                }
+            ],
+            "filesize": 259044,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "place1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-120\/wp-content\/uploads\/sites\/123\/2018\/10\/place1-500x341.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events-2-c2df976535ac53b37df26183557e0f1a.json",
+                    "name": "Events 2"
+                }
+            ],
+            "filesize": 448330,
+            "dimensions": [
+                1112,
+                758
+            ]
+        }
+    ]
+}
